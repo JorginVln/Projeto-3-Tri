@@ -10,7 +10,7 @@ body {
 }
 
 #container {
-    display: flex; /* Elementos dispostos em linha */
+    display: flex; 
 }
 
 .cartao {
@@ -69,8 +69,8 @@ body {
     width: 100%;
 }
 
-.cartao__conteudo__pergunta {
-    transform: rotateY(180DEG);
+.cartao__conteudo__resposta {
+    transform: rotateY(180deg);
 }
 
 
